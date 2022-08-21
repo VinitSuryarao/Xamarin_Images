@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Image.MainPage" BackgroundColor="Azure">
+
+    <ContentPage Title="Simple Image">
+        <StackLayout>
+            <Image Source="SampleImage.jpg"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Fill">
+        <StackLayout>
+            <Image Source="SampleImage.jpg" Aspect="Fill"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="AspectFill">
+        <StackLayout>
+            <Image Source="SampleImage.jpg" Aspect="AspectFill"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="AspectFit">
+        <StackLayout>
+            <Image Source="SampleImage.jpg" Aspect="AspectFit"/>
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

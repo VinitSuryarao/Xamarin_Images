@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Image\Image\bin\Debug\netstandard2.0\Image.deps.json
+E:\Study\Code\Xamarin\Image\Image\bin\Debug\netstandard2.0\Image.dll
+E:\Study\Code\Xamarin\Image\Image\bin\Debug\netstandard2.0\ref\Image.dll
+E:\Study\Code\Xamarin\Image\Image\bin\Debug\netstandard2.0\Image.pdb
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\Image.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\Image.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\Image.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\Image.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\Image.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\Image.dll
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\ref\Image.dll
+E:\Study\Code\Xamarin\Image\Image\obj\Debug\netstandard2.0\Image.pdb
